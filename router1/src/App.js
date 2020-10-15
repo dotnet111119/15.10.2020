@@ -22,3 +22,5 @@ class App extends Component {
 }
 
 export default App;
+// pass props
+// <Route path='/about' component={()=><About name="itay"/>}
